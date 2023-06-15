@@ -1,0 +1,15 @@
+D:\Users\Pyotr\Desktop\Final homework\bin\Debug\net6.0\Final homework.exe
+D:\Users\Pyotr\Desktop\Final homework\bin\Debug\net6.0\Final homework.deps.json
+D:\Users\Pyotr\Desktop\Final homework\bin\Debug\net6.0\Final homework.runtimeconfig.json
+D:\Users\Pyotr\Desktop\Final homework\bin\Debug\net6.0\Final homework.dll
+D:\Users\Pyotr\Desktop\Final homework\bin\Debug\net6.0\Final homework.pdb
+D:\Users\Pyotr\Desktop\Final homework\obj\Debug\net6.0\Final homework.csproj.AssemblyReference.cache
+D:\Users\Pyotr\Desktop\Final homework\obj\Debug\net6.0\Final homework.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Pyotr\Desktop\Final homework\obj\Debug\net6.0\Final homework.AssemblyInfoInputs.cache
+D:\Users\Pyotr\Desktop\Final homework\obj\Debug\net6.0\Final homework.AssemblyInfo.cs
+D:\Users\Pyotr\Desktop\Final homework\obj\Debug\net6.0\Final homework.csproj.CoreCompileInputs.cache
+D:\Users\Pyotr\Desktop\Final homework\obj\Debug\net6.0\Final homework.dll
+D:\Users\Pyotr\Desktop\Final homework\obj\Debug\net6.0\refint\Final homework.dll
+D:\Users\Pyotr\Desktop\Final homework\obj\Debug\net6.0\Final homework.pdb
+D:\Users\Pyotr\Desktop\Final homework\obj\Debug\net6.0\Final homework.genruntimeconfig.cache
+D:\Users\Pyotr\Desktop\Final homework\obj\Debug\net6.0\ref\Final homework.dll
